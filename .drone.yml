@@ -75,6 +75,7 @@ steps:
 node_selector:
   beta.kubernetes.io/arch: arm64
 
+---
 kind: pipeline
 type: kubernetes
 name: Build-amd64
