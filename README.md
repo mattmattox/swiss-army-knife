@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is retired and no longer maintained.**
+> Please migrate to the successor project:
+> **[rancherlabs/swiss-army-knife-v2](https://github.com/rancherlabs/swiss-army-knife-v2)**
+
+---
+
 [![Build Status](https://cloud.drone.io/api/badges/leodotcloud/swiss-army-knife/status.svg)](https://cloud.drone.io/leodotcloud/swiss-army-knife)
 [![Pulls](https://img.shields.io/docker/pulls/rancherlabs/swiss-army-knife.svg)](https://hub.docker.com/r/rancherlabs/swiss-army-knife)
 [![Twitter](https://img.shields.io/twitter/follow/leodotcloud?style=social&logo=twitter)](https://twitter.com/leodotcloud)
